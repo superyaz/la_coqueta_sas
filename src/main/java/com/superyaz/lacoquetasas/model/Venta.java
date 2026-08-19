@@ -5,10 +5,10 @@ import java.util.UUID;
 public class Venta {
     private String id;
     private String atraccion; //
-    private String tipoBoleta; // Familiar, Adulto Mayor, Normal[cite: 2]
-    private boolean jornadaNocturna; //[cite: 2]
-    private int cantidad; //[cite: 2]
-    private double valorTotal; //[cite: 2]
+    private String tipoBoleta; // Familiar, Adulto Mayor, Normal
+    private boolean jornadaNocturna; //
+    private int cantidad; //
+    private double valorTotal; //
 
     public Venta() {
         this.id = UUID.randomUUID().toString();
