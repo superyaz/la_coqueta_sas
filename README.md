@@ -4,7 +4,7 @@ Este repositorio contiene la solución al **Examen 1 (10%)** de la asignatura **
 
 El proyecto consiste en un prototipo de software backend para digitalizar la gestión de ventas de boletería de la empresa de atracciones y parque de diversiones "La Coqueta S.A.S."
 
----
+
 
 ## 🚀 Lógica de Negocio y Tarifas
 
@@ -18,7 +18,7 @@ Además, la API calcula automáticamente recargos si el servicio de la atracció
 * Incremento del 8% para la boleta de Adulto Mayor en horario nocturno.
 * Incremento del 12% sobre la tarifa base para cualquier otra combinación en horario nocturno.
 
----
+
 
 ## ⚙️ Operaciones del Sistema (Endpoints)
 
@@ -28,7 +28,7 @@ La API permite a los cajeros realizar las siguientes operaciones de gestión de 
 * **Modificar Venta:** Permite actualizar los datos de una venta en caso de error, recalculando automáticamente el cobro total.
 * **Cancelar Venta:** Ruta para eliminar el registro de una venta específica.
 
----
+
 
 ## 🛠️ Tecnologías Utilizadas
 
